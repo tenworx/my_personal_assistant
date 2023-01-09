@@ -9,7 +9,7 @@ A new Flutter project, where user can add their daily routines.
 - English and French languages
 - Daily routines
 - Morning and evening routines
-- Daily dbjectives and goals
+- Daily objectives and goals
 
 ## Preview 📸
 
